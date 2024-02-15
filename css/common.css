@@ -1,0 +1,24 @@
+.awards {
+    color: #d63c5d !important;
+    font-weight: bold;
+    line-height: 2;
+}
+
+.skills .desc {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.red {
+    color: #d63c5d !important;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+a.fa:hover {
+    color: #fff;
+    background: #3b5999;
+    border: solid 1px #3b5999;
+}
